@@ -1,0 +1,23 @@
+{
+  "devFiles": [
+    "static/development/dll/dll_4b76c5ea51a0cb343158.js"
+  ],
+  "pages": {
+    "/_app": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/users": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/userCrud": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ]
+  }
+}
